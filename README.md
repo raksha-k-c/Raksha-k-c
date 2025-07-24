@@ -37,6 +37,6 @@ Helmet with sensor integration for emergency alert system
 ## 📫 Contact Me
 📧 Email: raksha.chandru66@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/raksha-chandrashekhar-29b719299)  
-🌐 Portfolio: [rakshakc.github.io](https://rakshakc.github.io)
+🌐 Portfolio: [raksha-k-c.github.io](https://rakshakc.github.io)
 
 ---
