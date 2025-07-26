@@ -34,6 +34,22 @@
 
 ---
 
+---
+
+## 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multisim-00427E?style=for-the-badge&logo=ni&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medical%20Electronics-6A1B9A?style=for-the-badge&logo=healthcare&logoColor=white"/>
+</p>
+
+
 ## 📌 Pinned Projects
 
 - 🔹 [RTC Real-Time Clock using LPC1768](https://github.com/Raksha-k-c/RTC_Clock_LPC1768)
