@@ -1,42 +1,56 @@
-**👩‍🔬 Raksha K C
-**
-🎓 3rd-year Medical Electronics Engineering student at BMS College of Engineering  
-📍 Based in Bengaluru | Exploring innovation at the intersection of medicine and technology
+<h1 align="center">Hi there! I'm Raksha K C 👋</h1>
+
+<p align="center">
+🎓 Third-year Medical Electronics Engineering student at BMS College of Engineering, Bengaluru  
+💡 Passionate about healthcare technology, medical instrumentation, and data-driven solutions  
+🔬 Currently exploring full stack development | Skilled in diagnostic & therapeutic equipment  
+</p>
 
 ---
 
-## 🔧 Skills & Domains
-- Embedded C Programming | LPC1768 | Keil µVision
-- Diagnostic & Therapeutic Devices:
-  - ECG, EMG, Pulse Oximetry, Blood Pressure Measurement
-  - Haemodialysis Machine, Defibrillator, Pacemaker
-- Data Analysis & Visualization: MS Excel (Dashboards, Charts)
-- Documentation: Report Writing, Presentation, Research Analysis
+## 🚀 About Me
+
+- 🏫 I’m currently in my 3rd year at **BMSCE**, pursuing **Medical Electronics Engineering**  
+- 💡 Strong in practical knowledge of:
+  - Diagnostic tools like **ECG, EMG, Pulse Oximetry**
+  - Therapeutic equipment like **Pacemakers, Defibrillators, Dialysis**
+- 🖥️ Comfortable with **Keil µVision**, **Multisim**, and **healthcare data analysis using Excel**
+- 🌱 Currently learning **HTML**, and starting my journey in **full stack development**
+- 🌐 [Visit My Portfolio Website](https://raksha-k-c.github.io)
 
 ---
 
-## 📁 Featured Projects
+## 🛠️ Tech Skills
 
-### ⏰ Real-Time Clock Using LPC1768 (Embedded C)
-Real-time display via UART with RTC initialization using Keil  
-🔗 Repo: *(to be added)*
-
-### 📊 Biostatistics Health Dashboard
-Analyzed health datasets using Excel; Created interactive dashboards  
-🔗 Repo: *(to be added)*
-
-### 🧪 HBS Virtual Lab Experiments
-Neuron response & microscope experiments with detailed reports  
-🔗 Repo: *(to be added)*
-
-### 🪖 Smart Helmet for Accident Safety *(In Progress)*
-Helmet with sensor integration for emergency alert system
+| Tools/Tech               | Proficiency |
+|--------------------------|-------------|
+| `Medical Instrumentation`| ✅ ✅ ✅ ✅    |
+| `Keil µVision`           | ✅ ✅ ✅       |
+| `Multisim`               | ✅ ✅ ✅       |
+| `Excel (Charts, Stats)`  | ✅ ✅ ✅       |
+| `Git & GitHub`           | ✅ ✅ ✅       |
+| `HTML`                   | ✅ ✅          |
+| `Python`                 | ✅ ✅ ✅       |
 
 ---
 
-## 📫 Contact Me
-📧 Email: raksha.chandru66@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/raksha-chandrashekhar-29b719299)  
-🌐 Portfolio: [raksha-k-c.github.io](https://raksha-k-c.github.io)
+## 📌 Pinned Projects
+
+- 🔹 [RTC Real-Time Clock using LPC1768](https://github.com/Raksha-k-c/RTC_Clock_LPC1768)
+- 📊 [Biostatistics Dashboard Project](https://github.com/Raksha-k-c/Biostatistics_Dashboard)
+- 🧬 [HBS Virtual Lab Reports](https://github.com/Raksha-k-c/HBS_Virtual_Lab_Reports)
+- 🛡️ [Smart Helmet Safety System (Proposal)](https://github.com/Raksha-k-c/Smart_Helmet_Safety_Project)
 
 ---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raksha-chandrashekhar-29b719299)
+- 🌐 [Portfolio](https://raksha-k-c.github.io)
+- 📧 Email: raksha.chandru66@gmail.com
+
+---
+
+<p align="center">
+  🖤 *Thank you for visiting my profile!*  
+</p>
